@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Machine Learning**
 - 📫 How to reach me **adithicj06@gmail.com**
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithi-c-j-b691b0282)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithicj06@gmail.com) 
 
@@ -50,7 +50,7 @@
   </a>
 </p>
 
-## 🎖️ Certifications & Achievements:
+# 🎖️ Certifications:
 
 <p align="center">
   <!-- Oracle AI Foundations Associate -->
