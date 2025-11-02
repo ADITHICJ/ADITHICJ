@@ -50,4 +50,29 @@
   </a>
 </p>
 
+## 🎖️ Certifications & Achievements:
+
+<p align="center">
+  <!-- Oracle AI Foundations Associate -->
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=203B5A060AF72CCA267A16F1643B33CC73F3B18A6B9B08BA7CAC8DC82C922672" target="_blank">
+    <img src="https://raw.githubusercontent.com/ADITHICJ/ADITHICJ/main/badges/OCI25AICFA.jpeg" 
+         alt="Oracle Cloud Infrastructure AI Foundations Associate" 
+         width="160px" height="160px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Oracle Generative AI Professional -->
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=49E92EB592F0CE60229CAB3FBF035A271600A1D6EF54A19744025E812F157D33" target="_blank">
+    <img src="https://raw.githubusercontent.com/ADITHICJ/ADITHICJ/main/badges/OCI25GAIOCP.jpg" 
+         alt="Oracle Cloud Infrastructure Generative AI Professional" 
+         width="160px" height="160px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Postman GirlScript API Fundamentals -->
+  <img src="https://raw.githubusercontent.com/ADITHICJ/ADITHICJ/main/badges/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-09-21.png" 
+       alt="Postman API Fundamentals Student Expert - GirlScript" 
+       width="160px" height="160px" />
+</p>
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
